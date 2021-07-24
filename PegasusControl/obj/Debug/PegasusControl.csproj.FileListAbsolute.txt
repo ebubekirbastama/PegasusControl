@@ -1,0 +1,10 @@
+C:\Users\EBS\source\repos\PegasusControl\PegasusControl\bin\Debug\PegasusControl.exe.config
+C:\Users\EBS\source\repos\PegasusControl\PegasusControl\bin\Debug\PegasusControl.exe
+C:\Users\EBS\source\repos\PegasusControl\PegasusControl\bin\Debug\PegasusControl.pdb
+C:\Users\EBS\source\repos\PegasusControl\PegasusControl\obj\Debug\PegasusControl.csproj.AssemblyReference.cache
+C:\Users\EBS\source\repos\PegasusControl\PegasusControl\obj\Debug\PegasusControl.Form1.resources
+C:\Users\EBS\source\repos\PegasusControl\PegasusControl\obj\Debug\PegasusControl.Properties.Resources.resources
+C:\Users\EBS\source\repos\PegasusControl\PegasusControl\obj\Debug\PegasusControl.csproj.GenerateResource.cache
+C:\Users\EBS\source\repos\PegasusControl\PegasusControl\obj\Debug\PegasusControl.csproj.CoreCompileInputs.cache
+C:\Users\EBS\source\repos\PegasusControl\PegasusControl\obj\Debug\PegasusControl.exe
+C:\Users\EBS\source\repos\PegasusControl\PegasusControl\obj\Debug\PegasusControl.pdb

@@ -3,3 +3,6 @@
 
 <hr>
 <p>Pegasus Zararlı Yazılım Kalıntılarının tespiti için yazılmıştır...<p>
+<hr>
+# Kullanım dosyası
+<p>https://github.com/ebubekirbastama/PegasusControl/tree/main/PegasusControl/bin/Debug<p>
